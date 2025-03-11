@@ -9,11 +9,11 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: FA8072;
+  background-color: #FA8072;
 }
 
 li {
-  float:: left;
+  float: left; 
 }
 
 li a { 
@@ -25,5 +25,5 @@ li a {
 }
 
 li a:hover {
-  background-color: #BC8F8F:
+  background-color: #BC8F8F; 
 }
