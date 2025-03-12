@@ -1,5 +1,6 @@
 body {
   background-image: url("../Media/papertexture.jpg");
+  background-repeat: repeat;
 }
 
 
